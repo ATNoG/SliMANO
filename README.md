@@ -2,13 +2,11 @@
 
 SliMANO (Slice Management and Orchestration) framework is a plug-in based system that requests network resources and coordinates the interaction among network orchestration entities for its instantiation and chaining in order to perform an end-to-end slice. These entities could range but are not limited to management and orchestration (MANO), Software Defined Networking (SDN) controllers and Radio Access Network (RAN) controllers.
 
-![Motivational Scenario](images/overview.pdf)
-**Fig. 1. SliMANO's motivational scenario (from publication [1])**
+![Motivational Scenario](images/overview.pdf)  **Fig. 1. SliMANO's motivational scenario (from publication [1])**
 
 SliMANO follows a microservices architecture and is divided in three main building blocks, namely the SliMANO Core, SliMANO Plug-in Framework and SliMANO Agents Framework.
 
-![SliMANO Framework](images/slimano.pdf)
-**Fig. 2. SliMANO framework (from publication [1])**
+![SliMANO Framework](images/slimano.pdf)  **Fig. 2. SliMANO framework (from publication [1])**
 
 ### Publications
 
